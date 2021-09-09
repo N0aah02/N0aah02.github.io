@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![N0aah02's Statistiken](https://github-readme-stats.vercel.app/api?username=n0aah02&count_private=true&custom_title=eyNoahs%20Stats&hide_rank=true&border_radius=16&theme=radical )<br>
+![website.png](http://n0aah02.eynoah.xyz)
+
 <!--
 **N0aah02/N0aah02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
