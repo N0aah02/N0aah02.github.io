@@ -44,13 +44,19 @@
 ## About me
 
 Hey ho, ich heiße Noah und bin 18 Jahre alt, ich höre gerne [Musik](https://open.spotify.com/playlist/7GHtPzc58oISMDSsiUJvIO?si=2d7db65b774e4df6 "Favorit Playlist")
+
+
+## Meine Projekte
+
+*Hier findest du etwas über* *[Meine Projekte](http://git.eynoah.club/projekte "My Projects") heraus ^^*
+
+
 <!--
 **N0aah02/N0aah02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 
-<--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
