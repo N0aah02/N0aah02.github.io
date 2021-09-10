@@ -27,6 +27,7 @@
   <img alt='Twitch' src='https://img.shields.io/twitch/status/serverfarmer02?color=%23FF0000&label=N0aah02%20%7C%20Twitch&style=social' /><br><br>
   <img alt='Discord' src='https://img.shields.io/discord/848262530207711332' /><br><br>
   <a href='https://forum.playhive.com/u/serverfarmer/summary' target='_blank'><img alt='Hive Bedrock Forum account' src='https://img.shields.io/badge/Hive%20Forums-Click%20that%20to%20go%20on%20my%20Profile-blue' /></a><br><br>
+  <img alt='Hive Discord' src='https://img.shields.io/discord/195265653425307649?label=Hive%20Discord' />
   
   <audio src='https://fails.eynoah.club/ImagineBass.mp3'></audio>
   <!--<img alt='Pronouns' src='https://img.shields.io/endpoint?url=https://pronoundb.org/shields/6004d014406af11e4593a013' />-->
