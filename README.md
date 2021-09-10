@@ -33,13 +33,17 @@
   <!--<img alt='Pronouns' src='https://img.shields.io/endpoint?url=https://pronoundb.org/shields/6004d014406af11e4593a013' />-->
 </div>
 <hr>
-### Statistiken
-<center>
+
+
+
+### Stats
+
 ![N0aah02's Statistiken](https://github-readme-stats.vercel.app/api?username=n0aah02&count_private=true&custom_title=eyNoahs%20Stats&hide_rank=true&border_radius=16&theme=radical )<br>
-![website.png](http://n0aah02.eynoah.xyz)
-# About me
+[website](http://git.eynoah.club)
+
+## About me
+
 Hey ho, ich heiße Noah und bin 18 Jahre alt, ich höre gerne [Musik](https://open.spotify.com/playlist/7GHtPzc58oISMDSsiUJvIO?si=2d7db65b774e4df6 "Favorit Playlist")
-</center>
 <!--
 **N0aah02/N0aah02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
