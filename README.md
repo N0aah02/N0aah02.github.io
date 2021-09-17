@@ -20,7 +20,8 @@
   <hr>
   <br>
   <p style='color: red'>Social Media</p><br><br>
-  <img alt="discord status" src="https://dev.discordprofiles.me/badge/status/840718800345366549" /><br><br>
+  <p>Inspired by <a href="https://github.com/nsde/nsde" title="Nice Dude coding with python ^^" target="_blank">@nsde</a></p>
+  <img alt="discord status" src="https://discord.c99.nl/widget/theme-5/840718800345366549.png" /><br><br>
   <img alt="what the hell i am listening to" src="https://dev.discordprofiles.me/badge/spotify/840718800345366549" /><br><br>
   <img alt="who viewed me owo" src="https://komarev.com/ghpvc/?username=eynoah" /><br><br>
   <img alt='React.js' src='https://img.shields.io/bundlephobia/min/react?label=React.js' /><br><br>
