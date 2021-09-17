@@ -22,10 +22,10 @@
   <p style='color: red'>Social Media</p><br><br>
   <p>Inspired by <a href="https://github.com/nsde/nsde" title="Nice Dude coding with python ^^" target="_blank">@nsde</a></p>
   <img alt="discord status" src="https://discord.c99.nl/widget/theme-5/840718800345366549.png" /><br><br>
-  <img alt="what the hell i am listening to" src="https://dev.discordprofiles.me/badge/spotify/840718800345366549" /><br><br>
-  <img alt="who viewed me owo" src="https://komarev.com/ghpvc/?username=eynoah" /><br><br>
-  <img alt='React.js' src='https://img.shields.io/bundlephobia/min/react?label=React.js' /><br><br>
-  <img alt='Twitch' src='https://img.shields.io/twitch/status/serverfarmer02?color=%23FF0000&label=N0aah02%20%7C%20Twitch&style=social' /><br><br>
+  <!--<img alt="what the hell i am listening to" src="https://dev.discordprofiles.me/badge/spotify/840718800345366549" /><br><br>-->
+  <img alt="Danke an alle xD" src="https://komarev.com/ghpvc/?username=eynoah" /><br><br>
+  <img alt='Discord.js' src='https://img.shields.io/bundlephobia/min/react?label=discord.js' /><br><br>
+  <img alt='Twitch' src='https://img.shields.io/twitch/status/eynoah02?color=%23FF0000&label=eyNoah02%20%7C%20Twitch&style=social' /><br><br>
   <img alt='Discord' src='https://img.shields.io/discord/848262530207711332' /><br><br>
   <a href='https://forum.playhive.com/u/serverfarmer/summary' target='_blank'><img alt='Hive Bedrock Forum account' src='https://img.shields.io/badge/Hive%20Forums-Click%20that%20to%20go%20on%20my%20Profile-blue' /></a><br><br>
   <img alt='Hive Discord' src='https://img.shields.io/discord/195265653425307649?label=Hive%20Discord' />
@@ -50,6 +50,7 @@ Hey ho, ich heiße Noah und bin 18 Jahre alt, ich höre gerne [Musik](https://op
 ## Meine Projekte
 
 *Hier findest du etwas über* *[Meine Projekte](http://git.eynoah.club/projekte "My Projects") heraus ^^*
+<p>Mein Main projekt: <a href="https://www.grieferlegion.de/" target="_blank">Grieferlegion MCBE Netzwerk</a></p>
 
 
 <!--
