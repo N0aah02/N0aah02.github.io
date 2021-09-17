@@ -32,6 +32,8 @@
   
   <audio src='https://fails.eynoah.club/ImagineBass.mp3'></audio>
   <!--<img alt='Pronouns' src='https://img.shields.io/endpoint?url=https://pronoundb.org/shields/6004d014406af11e4593a013' />-->
+  <br>
+  <a href="https://discord.gg/C5NgVs77zw" target="_blank"><img alt="Discord" src="https://img.shields.io/discord/355467987840532481?color=%231d9ff0&label=Rushnation.net"></a>
 </div>
 <hr>
 
