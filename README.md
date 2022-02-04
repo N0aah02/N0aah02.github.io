@@ -1,18 +1,18 @@
-### N0aah02 - Welcome 👋
+###### N0aah02 - Welcome 👋
 <div align='center'>
   <div align='left'>
     <img
-      src='https://dev.dirtyhost24.de/img/star.png'
+      src='https://eynoah.club/AboutMe/assets/flags/at.png'
       style='border-radius: 50%;'
-      width='138'
-      height='138'
+      width='128'
+      height='128'
     />
   </div>
 
   <h1>Noah | eyNoah</h1>
   <blockquote><strong>Lehrling, Entwickler aus <tt><a href="https://wien.gv.at" target="_blank">Österreich</a></tt>, ich programmiere Plugins für <a href="https://poggit.pmmp.io" target="_blank">Pocketmine Server</a>.</strong></blockquote>
 <br>
-  <a href="https://dsc.bio/eyNoah" target="_blank">dsc.bio/eyNoah</a>
+  <a href="https://discords.com/bio/p/eynoah02" target="_blank">dsc.bio/eynoah02</a>
   <br><br>
   <br />
 
@@ -21,7 +21,7 @@
   <br>
   <p style='color: red'>Social Media</p><br><br>
   <p>Inspired by <a href="https://github.com/nsde/nsde" title="Nice Dude coding with python ^^" target="_blank">@nsde</a></p>
-  <img alt="discord status" src="https://discord.c99.nl/widget/theme-5/840718800345366549.png" /><br><br>
+  <img alt="discord status" src="https://discord.c99.nl/widget/theme-5/586231322993754119.png" /><br><br>
   <!--<img alt="what the hell i am listening to" src="https://dev.discordprofiles.me/badge/spotify/840718800345366549" /><br><br>-->
   <img alt="Danke an alle xD" src="https://komarev.com/ghpvc/?username=eynoah" /><br><br>
   <img alt='Discord.js' src='https://img.shields.io/bundlephobia/min/react?label=discord.js' /><br><br>
@@ -44,15 +44,15 @@
 ![N0aah02's Statistiken](https://github-readme-stats.vercel.app/api?username=n0aah02&count_private=true&custom_title=eyNoahs%20Stats&hide_rank=true&border_radius=16&theme=radical )<br>
 [website](http://git.eynoah.club)
 
-## About me
+###### About me
 
-Hey ho, ich heiße Noah und bin 18 Jahre alt, ich höre gerne [Musik](https://open.spotify.com/playlist/7GHtPzc58oISMDSsiUJvIO?si=2d7db65b774e4df6 "Favorit Playlist")
+Hey ho, ich heiße Noah und bin 19 Jahre alt, ich höre gerne [Musik](https://open.spotify.com/playlist/7GHtPzc58oISMDSsiUJvIO?si=2d7db65b774e4df6 "Favorit Playlist")
 
-
+<!--
 ## Meine Projekte
 
 *Hier findest du etwas über* *[Meine Projekte](http://git.eynoah.club/projekte "My Projects") heraus ^^*
-<p>Mein Main projekt: <a href="https://www.grieferlegion.de/" target="_blank">Grieferlegion MCBE Netzwerk</a></p>
+<p>Mein Main projekt: <a href="https://exoth.de" target="_blank">Exoth MCBE Netzwerk</a></p>-->
 
 
 <!--
